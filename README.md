@@ -13,7 +13,3 @@ Imagens de como ficou:
 ![image](https://user-images.githubusercontent.com/84113028/181872373-fb485e26-4ed7-4d5d-8390-264f658a7b42.png)
 </br>
 ![image](https://user-images.githubusercontent.com/84113028/181872384-9fc67940-6b53-426a-aee2-48cf53c96967.png)
-
-
-
-
